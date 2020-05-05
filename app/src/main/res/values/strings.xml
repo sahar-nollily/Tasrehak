@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tasrehak</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="type_id">Type ID</string>
+    <string name="id">ID</string>
+    <string name="dob">Date oF Birth</string>
+    <string name="phone">Phone</string>
+    <string name="form_phone">050000000</string>
+
+    <string name="form_date">DD/MM/YYYY</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <string name="reason">Reason</string>
+    <string name="send">Download</string>
+
+    <string-array name="TypeID">
+        <item>National ID</item>
+        <item>Iqama</item>
+        <item>Passport</item>
+    </string-array>
+
+</resources>
